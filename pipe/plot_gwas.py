@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-gwas_file = "gwas/gwas.HD.STD.glm.linear"
+gwas_file = "gwas.HD.STD.glm.linear.Chr3D"
 out_prefix = "trait_gwas"
 
 # 1. GWAS 결과 읽기
